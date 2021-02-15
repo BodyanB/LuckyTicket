@@ -51,7 +51,7 @@ namespace LuckyTicket
 				}
 
 				WriteLine();
-
+				
 				int sum1 = 0, sum2 = 0;
 
 				for (int i = 0; i < array.Length / 2; i++)
